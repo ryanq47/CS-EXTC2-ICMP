@@ -6,7 +6,7 @@ An ICMP channel for Beacons, implemented using Cobalt Strike’s External C2 fra
 <a href="https://ryanq47.github.io/posts/CobaltStrike_ICMP_Tunnel/" target="_blank" rel="noopener noreferrer">CobaltStrike ICMP Tunnel</a>
 
 ## Related Projects:
-[CS-EXTC2-ICMP](https://github.com/ryanq47/CS-EXTC2-NTP)
+[CS-EXTC2-NTP](https://github.com/ryanq47/CS-EXTC2-NTP)
 
 ## Demo video:
 (I apologize for the quality, GH limits to 10mb. A full quality video is on the blog) :
